@@ -1,5 +1,5 @@
 a=24
-b=5
-c=3
+b=3
+c=5
 K=a-b+c
 print(K)
